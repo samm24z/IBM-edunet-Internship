@@ -1,0 +1,5 @@
+UDI,Product ID,Type,Air temperature [K],Process temperature [K],Rotational speed [rpm],Torque [Nm],Tool wear [min],Target
+166,L47345,L,298.5,308.4,1733,6,8,0
+161,L47340,L,298.4,308.2,1282,60.7,216,1
+256,M26423,M,889.5,126.3,5961,30.5,500,0
+965,M92262,M,556.2,266.5,5599,52.3,623,1
